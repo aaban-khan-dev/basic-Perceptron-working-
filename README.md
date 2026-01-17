@@ -38,4 +38,3 @@ The notebook demonstrates:
 ## Author
 
 Mohammad Aaban
-# basic-Perceptron-working-
